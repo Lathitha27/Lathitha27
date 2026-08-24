@@ -18,7 +18,7 @@
 - 🎓 Final-year **BSc Computer Science and Chemistry** student at North-West University
 - 🔐 Actively pursuing my **CCNA certification**
 - 🛡️ Passionate about network security, threat detection, and risk mitigation
-- 🌱 Always learning — theory is great, but I want to see how it holds up in the real world
+- 🌱 Always learning, theory is great but I want to see how it holds up in the real world
 - ⚡ Fun fact: I still play Clash of Clans at my "big age," still watch Cartoon Network, and I'm trying to get pick up a guitar
 
 ---
