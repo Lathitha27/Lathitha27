@@ -48,8 +48,8 @@
 
 ### ♟️ Off the Clock
 
-Chess games are always welcome — I play a decent one. When I'm not coding or studying, you'll probably find me deep into Clash of Clans, rewatching old cartoons, or attempting a new skateboard trick I have no business trying.
+Chess games are always welcome I play a decent one. When I'm not coding or studying, you'll probably find me deep into Clash of Clans, rewatching old cartoons.
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out!</i></p>
+<p align="center"><i>Thanks for stopping by-feel free to explore my repos or reach out!</i></p>
